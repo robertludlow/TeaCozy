@@ -1,0 +1,86 @@
+<!DOCTYPE HTML lang=EN-US>
+<html>
+
+<head>
+  <link href="./Resources/CSS/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<header>
+  <img src="./Resources/Images/tea-cozy-logo.png">
+  <nav>
+    <a href=""!>Mission</a>
+    <a href=""!>Featured Tea</a>
+    <a href =""!>Locations</a>
+  </nav>
+</header>
+
+<body>
+  <div id="mission">
+    <h2>Our Mission</h2>
+    <h4>Handpicked, Artisanally Curated, Free Range, Sustainable, Small Batch, Fair Trade, Organic Tea</h4>
+  </div>
+  
+  <div id="Tea-of-the-Month">
+    <h2>Tea of the Month</h2>
+    <h4>What's Steeping at The Tea Cozy?</h4>
+    <section>
+      <img src="./Resources/Images/berryblitz.jpeg">
+      <h4>Fall Berry Blitz Tea</h4>
+    </section>
+    <section
+      <img src="./Resources/Images/spiced-rum.jpeg">
+      <h4>Spiced Rum Tea</h4>    
+    </section>
+    <section>
+      <img src="./Resources/Images/donut.jpeg">
+      <h4>Seasonal Donuts</h4>
+    <section>
+    <section>    
+      <img src="./Resources/Images/myrtle-ave.jpeg">
+      <h4>Myrtle Ave Tea</h4>
+    </section>
+    <section>    
+      <img src="./Resources/Images/bedford-bizarre.jpeg">
+      <h4>Bedford Bizarre Tea</h4>
+    </section>
+  </div>
+  <div id="Locations">
+    <h2>Locations</h2>
+    <section class="location">
+      <h3>Downtown</h3>
+      <br>
+      <p>384 West 4th St</p>
+      <br>
+      <p>Suite 108</p>
+      <br>
+      <p>Portland, Maine</p>
+    </section>
+    <section class="location">
+      <h3>East Bayside</h3>
+      <br>
+      <p>3433 Phisherman's Avenue</p>
+      <br>
+      <p>(Northwest Corner)</p>
+      <br>
+      <p>Portland, Maine</p>
+    </section>
+    <section class="location">
+      <h3>Oakdale</h3>
+      <br>
+      <p>515 Crescent Avenue</p>
+      <br>
+      <p>Second Floor</p>
+      <br>
+      <p>Portland, Maine</p>
+    </section>
+  </div>
+  <div id="contact>
+  <h2>The Tea Cozy</h2>
+  <h5><a href="mailto:contact@theteacozy.com">contact@theteacozy.com</a></h5>
+  <br>
+  <h5><a href="tel:9175558904">917-555-8904</a></h5>
+  </div>
+</body>
+<footer>
+  <h5>copyright The Tea Cozy 2017<h5>
+</footer>
